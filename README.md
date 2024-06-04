@@ -46,5 +46,3 @@ Make sure you have the following installed:
 - Consider incorporating user ratings or reviews to personalize recommendations further.
 - Explore advanced recommendation algorithms like collaborative filtering or content-based filtering.
 - Allow users to provide multiple genres or keywords for a broader recommendation scope. 
-
-This README provides a basic outline for your movie recommender project. Feel free to customize it further as your project evolves.
